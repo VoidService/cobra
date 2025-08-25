@@ -2,7 +2,7 @@
   {
     "key": "USER1-ABCD-1234-EFGH",
     "user": "Cobra_Casino", 
-    "active": true,
+    "active": false,
     "expires": null
   },
   {
