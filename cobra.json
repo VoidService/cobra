@@ -10,5 +10,11 @@
     "user": "Bot_CB3",
     "active": true,
     "expires": 2026-08-25
+  },
+    {
+    "key": "USER2-WXYZ-56718-IJKL",
+    "user": "Bot_CB31",
+    "active": true,
+    "expires": 2026-08-25
   }
 ]
