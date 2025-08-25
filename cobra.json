@@ -3,12 +3,12 @@
     "key": "USER1-ABCD-1234-EFGH",
     "user": "Cobra_Casino", 
     "active": true,
-    "expires": "2024-12-31"
+    "expires": null
   },
   {
     "key": "USER2-WXYZ-5678-IJKL",
     "user": "MinecraftUsername2",
     "active": true,
-    "expires": null
+    "expires": 2024-12-31
   }
 ]
