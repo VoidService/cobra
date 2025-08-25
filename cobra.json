@@ -3,7 +3,7 @@
     "key": "USER1-ABCD-1234-EFGH",
     "user": "Cobra_Casino", 
     "active": true,
-    "expires": 2023-08-25
+    "expires": null
   },
   {
     "key": "USER2-WXYZ-5678-IJKL",
